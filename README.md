@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @kishorekishh
-- 👀 I’m interested in Java and Spring Boot
-- 🌱 I’m currently learning Web Dev
+- 👀 I’m interested in SQL,Excel,Python and PowerBI
+- 🌱 I’m currently learning Data Analytics
 - 📫 How to reach me 8693082491
 - 😄 Pronouns: kishore
 - ⚡ Fun fact: It's all started with Hello World
